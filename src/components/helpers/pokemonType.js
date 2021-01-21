@@ -1,6 +1,6 @@
 const pokemonType = {
     bug: '#729f3f',
-    dragon: '#53a4cf',
+    dragon: '#6930c3',
     fairy: '#fdb9e9',
     fire: '#fd7d24',
     ghost: '#7b62a3',
